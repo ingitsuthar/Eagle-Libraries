@@ -1,2 +1,2 @@
 # Eagle-Libraries
-Libraries for Cadsoft Eagle
+Libraries for AutoDesk Eagle (Former Cadsoft Eagle)
